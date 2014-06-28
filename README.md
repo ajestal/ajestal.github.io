@@ -1,4 +1,4 @@
 ajestal.github.io
 =================
 
-Blog persona
+Blog personal
